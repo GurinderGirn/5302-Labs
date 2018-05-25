@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a50fb97c-b0e1-4df1-b3a4-d9b72acb7278" name="Default" comment="" />
+    <list default="true" id="11356136-1cb4-481a-9ad8-aa995d2c9b93" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Lab2/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,41 +13,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="lab2.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab2.ts">
+      <file leaf-file-name="lab3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab3/lab3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="69">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TSfunctions.ts" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Semester 3/Trends In web Dev/TSfunctions.ts">
+      <file leaf-file-name="lab3.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab3/lab3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-24">
-              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lab2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-744">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lab2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2.html">
+      <file leaf-file-name="lab3.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab3/lab3.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="30" />
+            <state relative-caret-position="98">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -53,11 +45,23 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="D:/Semester 3/Trends In web Dev/TSfunctions.ts" />
-        <option value="$PROJECT_DIR$/lab2.ts" />
+        <option value="$PROJECT_DIR$/Lab3/lab2.ts" />
+        <option value="$PROJECT_DIR$/Lab3/lab3.html" />
+        <option value="$PROJECT_DIR$/Lab3/lab3.ts" />
       </list>
     </option>
   </component>
@@ -95,24 +99,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5302-Labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5302-Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="5302-Labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5302-Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Lab2" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="Lab2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab2" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lab2.ts" type="620a8d5e:NestingTreeNode" />
+              <item name="5302-Labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5302-Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab3" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="5302-Labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5302-Labs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Lab3" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lab3.ts" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,7 +135,8 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/MongoNode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,20 +158,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a50fb97c-b0e1-4df1-b3a4-d9b72acb7278" name="Default" comment="" />
-      <created>1526660196388</created>
+      <changelist id="11356136-1cb4-481a-9ad8-aa995d2c9b93" name="Default" comment="" />
+      <created>1527262168855</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1526660196388</updated>
-      <workItem from="1526660197872" duration="5915000" />
+      <updated>1527262168855</updated>
+      <workItem from="1527262170496" duration="1062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5915000" />
+    <option name="totallyTimeSpent" value="1062000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24961948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -163,12 +180,12 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -182,7 +199,8 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lab2.js" />
+        <option value="$PROJECT_DIR$/Lab2/lab2.js" />
+        <option value="$PROJECT_DIR$/Lab3/lab3.js" />
       </list>
     </option>
   </component>
@@ -194,34 +212,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab2.html">
+    <entry file="file://$PROJECT_DIR$/Lab2/lab2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="275">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Semester 3/Trends In web Dev/TSfunctions.ts">
+    <entry file="file://$PROJECT_DIR$/Lab3/lab3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+        <state relative-caret-position="69">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2.js">
+    <entry file="file://$PROJECT_DIR$/Lab3/lab3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-744">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab2.ts">
+    <entry file="file://$PROJECT_DIR$/Lab3/lab3.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="98">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding />
         </state>
       </provider>
