@@ -1,0 +1,50 @@
+$big-font: 25px;
+$med-font:18px;
+$small-font: 14px;
+$lightgrey: lightgrey;
+li {
+  list-style-type:none;
+  &:hover {
+    background-color: $lightgrey;
+  }
+}
+header{
+  nav {
+    .links{
+      font-size: $big-font;
+      > li {
+        display:inline;
+        position:relative;
+
+          > .nested-links {
+            padding-left:0;
+            position:absolute;
+            left:0;
+            display:none;
+            font-size: $med-font;
+            width: 150%;
+
+            > li {
+              position:relative;
+              .sub-links {
+                display:none;
+                position:absolute;
+                top:0;
+                left: 100%;
+                width:200%;
+                padding:5px;
+                font-size: $small-font;
+              }
+              &:hover > .sub-links{
+                display: block;
+              }
+            }
+          }
+
+        &:hover > .nested-links {
+          display:block;
+        }
+      }
+    }
+  }
+}
