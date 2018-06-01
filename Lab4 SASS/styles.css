@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+ul li {
+    position: relative;
+    display: inline;
+}
+li li {
+    position:relative;
+    display:block;
+}
+.nav {
+    list-style: none;
+    overflow: hidden;
+}
+ul ul {
+    position: absolute;
+    left: -99999px;
+    /*display:none;*/
+}
+ul li:hover > ul  {
+
+    display: block;
+    position: relative;
+    left: 0px;
+    float:none;
+    clear:both;
+}
+a:hover{
+    background-color:grey;
+}
+
+
+
